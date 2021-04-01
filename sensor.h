@@ -1,5 +1,5 @@
 class Sensor{
-  private:
+  protected:
   int pin;
 
   public:
